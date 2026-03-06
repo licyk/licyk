@@ -1,12 +1,12 @@
 <a href="#">
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=licyk&count_private=true&show_icons=true" />
+    <img align="right" src="https://licyk-stats.vercel.app/api?username=licyk&count_private=true&show_icons=true" />
 </a>
 
 
 **✨ 关于我**
 
 - 📫 邮箱：[licyk233@163.com](mailto:licyk233@163.com)
-- 🍨 Blog：[licyk的小窝](https://licyk.netlify.app)
+- 🍨 博客：[licyk的小窝](https://licyk.netlify.app)
 - 🔭 主要使用：Python，Shell Scripts，PowerShell
 - ⚙ 平台：![Static Badge](https://img.shields.io/badge/-HyperOS-ffffff?logo=android) ![Static Badge](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white) ![Static Badge](https://img.shields.io/badge/-LinuxMint-343a40?logo=linuxmint)
 
