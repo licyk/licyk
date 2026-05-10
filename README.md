@@ -12,3 +12,9 @@
 
 
 <center><a href="https://gitroll.io/profile/u9p6RZn8mfoXBFqEYm70I4Dts1j92" target="_blank"><img align="right" src="https://gitroll.io/api/badges/profiles/v1/u9p6RZn8mfoXBFqEYm70I4Dts1j92" alt="GitRoll Profile Badge"/></center>
+
+<p align="right">
+    <sub><i>
+    <a href="https://afdian.com/a/licyk">在爱发电赞助 <img src="./aifadian.svg" width="20" height="20" style="vertical-align: middle;" alt="Aifadian" /></a> ~
+    </i></sub>
+</p>
